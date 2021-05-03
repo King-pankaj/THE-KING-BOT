@@ -52,8 +52,7 @@ Also join [support channel and group](https://github.com/ULTRA-OP/ULTRA-X#o%D2%9
 
 ## Oғғɪᴄɪᴀʟ Sᴜᴘᴘᴏʀᴛ
 <a href="https://telegram.me/UltraXChat"><img src="https://img.shields.io/badge/Join-Support%20Channel-red.svg?style=for-the-badge&logo=Telegram"></a>
-<a href="https://telegram.me/UltraX_Support"><img src="https://img.shields.io/badge/Join-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
-
+<a href="https://telegram.me/THEKING_08
 ## Tʜᴇ Nᴏʀᴍᴀʟ Wᴀʏ
 
 Simply clone the repository and run the main file:
@@ -103,7 +102,7 @@ Fortunately there are no Mandatory vars for the UniBorg Support Config.
 # Licence 📋
 [![GNU GPLv3 Image](https://www.gnu.org/graphics/gplv3-127x51.png)](http://www.gnu.org/licenses/gpl-3.0.en.html)  
 
-## Copyright (C) 2021 by Team Ultra for UltraX UserBot, < https://github.com/ULTRA-OP >.
+## Copyright (C) 2021 by THE KING BOT for UltraX UserBot, < https://github.com/ULTRA-OP >.
 
 
 # ➥ ULTRA-X   »»  <a href="https://github.com/ULTRA-OP/ULTRA-X" alt="UltraX"> <img src="https://img.shields.io/badge/ULTRA X-413839?logo=github" /></a>
